@@ -1,0 +1,123 @@
+header, footer {
+  background-color:#93B874;
+  align-items: center;
+  text-align: center;
+  width: 300px
+  height: 300;
+
+
+}
+
+.details { 
+list-style-type: none;
+display: inline;
+}
+.details li { 
+float: left;
+padding: 0px 2px;
+margin: 0 auto;
+border-radius: 0.25rem;
+position: relative;
+width: 37.5rem;
+display: flex;
+
+
+ }
+
+.logo {
+  size: 12px
+  
+}
+
+ .a {
+  font-family: monospace;
+  display: inline-block;
+}
+
+
+.content {
+  font-family: monospace;
+  text-align: center;
+  text-overflow: none;
+  size: 21px
+}
+.content img {
+  z-index: auto;
+  position: center;
+
+}
+
+.label {
+  flood-color: currentColor;
+  text-shadow: transparent;
+  display: inline;
+  color: white;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: white;
+  padding: 3px 0px 3px 2px;
+  
+}
+.follow {
+  color: white;
+  text-align: top;
+}
+.XQ6p1d {
+text-align: center;
+list-style-type: none;
+}
+
+.container {
+  min-width: 500px;
+  margin: auto;
+}
+}
+ p {
+  font-family: none;
+  font-size: 12px;
+
+  }
+
+.body {
+  background-color:#00b33c;
+}
+
+.description {
+  font-family: monospace;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.29;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #4a4a4a;
+  padding: 20px 0px 20px 20px;
+  border-top: 2px solid #4a4a4a;
+}
+
+.logo {
+  width: 115px;
+  height: 21.5px;
+  object-fit: contain;
+  padding: 20px;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+}
+
+.phone {
+  width: 200px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+footer {
+  margin-top: 44px;
+}
